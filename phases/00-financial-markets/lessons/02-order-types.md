@@ -14,7 +14,7 @@ An **order** is an instruction to buy or sell a financial instrument
 
 A market order asks to buy or sell as soon as possible at the best available prices
 
-- **Advantage:** Usually more likey to execute quickly
+- **Advantage:** Usually more likely to execute quickly
 - **Trade-off:** The final execution price is not guaranteed; it can differ from the price you last saw.
 
 ### Limit order
