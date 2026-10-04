@@ -9,7 +9,7 @@ Learn Python tools and techniques fr analyzing real world data. The Market Data 
 3. [Data Cleaning](lessons/03-data-cleaning.md)
 4. [Data Transformation](lessons/04-data-transformation.md)
 5. [Aggregations](lessons/05-aggregations.md)
-6. [Exploratory Data Analysis]
-7. [Feature Engineering]
+6. [Exploratory Data Analysis](lessons/06-exploratory-data-analysis.md)
+7. [Feature Engineering](lessons/07-feature-engineering.md)
 
 
